@@ -10,7 +10,8 @@ Ahmad Ihza Ananda (20082010158) *Tidak Berkontibrusi
 Muhammad Abdul Aziz Masyhuri (20082010171) *Tidak Berkontibrusi
 Raditya Khansa Adifa (20082010175)
          
-   
+REVIEW
+![image](https://user-images.githubusercontent.com/91874872/209689186-443e531a-41a3-43a8-aeb1-eed6f882cc62.png)
 
 Langkah-langkah Menggunakan Aplikasi
 1. Install Xampp (Sebagai Database server dan Management).
