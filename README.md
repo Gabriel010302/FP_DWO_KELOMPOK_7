@@ -4,7 +4,8 @@ UPN "Veteran" Jawa Timur - Program Studi Sistem Informasi - Fakultas Ilmu Komput
 Kelompok 7
 Ketua :
 
-- Harits Hervandhito Putra Anandi (20082010177) 
+- Harits Hervandhito Putra Anandi (20082010177)
+ 
 Anggota :
 
 - Gabriel (20082010034)
