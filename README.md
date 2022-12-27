@@ -1,11 +1,14 @@
 # FP_DWO_KELOMPOK_7
 UPN "Veteran" Jawa Timur - Program Studi Sistem Informasi - Fakultas Ilmu Komputer
+
 Kelompok 7
-Ketua :Harits Hervandhito Putra Anandi (20082010177) 
-Anggota :Gabriel (20082010034)
-         Ahmad Ihza Ananda (20082010158) *Tidak Berkontibrusi
-         Muhammad Abdul Aziz Masyhuri (20082010171) *Tidak Berkontibrusi
-         Raditya Khansa Adifa (20082010175)
+Ketua :
+Harits Hervandhito Putra Anandi (20082010177) 
+Anggota :
+Gabriel (20082010034)
+Ahmad Ihza Ananda (20082010158) *Tidak Berkontibrusi
+Muhammad Abdul Aziz Masyhuri (20082010171) *Tidak Berkontibrusi
+Raditya Khansa Adifa (20082010175)
          
          
          Langkah-langkah Menggunakan Aplikasi
