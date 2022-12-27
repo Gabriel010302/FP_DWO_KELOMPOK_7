@@ -10,14 +10,15 @@ Ahmad Ihza Ananda (20082010158) *Tidak Berkontibrusi
 Muhammad Abdul Aziz Masyhuri (20082010171) *Tidak Berkontibrusi
 Raditya Khansa Adifa (20082010175)
          
-         
-         Langkah-langkah Menggunakan Aplikasi
+   
+
+Langkah-langkah Menggunakan Aplikasi
 Install Xampp (Sebagai Database server dan Management).
-Download & Extract File FP_DWO_KELOMPOK_8.zip pada folder htdocs XAMPP (xampp/htdocs).
+Download & Extract File FP_DWO_KELOMPOK_7.zip dan masukan folder didalamnya pada folder htdocs XAMPP (xampp/htdocs).
 Jalankan Xampp control panel.
 Start Apache dan MySql server.
 Buka phpMyAdmin (localhost/phpmyadmin).
 Buat database dengan nama dwofinal
 Import file dwofinal.sql ke dalam database dwofinal.
 Download dan Extract File Mondrian ke dalam server Tomcat bawaan dari XAMPP (xampp/tomcat/webapps).
-Jalankan aplikasi dengan mengakses 
+Jalankan aplikasi dengan mengakses http://localhost/FP_DWO_KELOMPOK_7
